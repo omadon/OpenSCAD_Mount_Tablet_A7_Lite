@@ -8,5 +8,7 @@ Modification:
 - OpenSCAD: [a7-lite-omadon.scad](a7-lite-omadon.scad)
 - STL [a7-lite-omadon.stl](a7-lite-omadon.stl)
 
+Logo and text can easily be removed or changed in OpenSCAD.
+
 ![Mount A7 Lite](a7-lite-omadon.jpg)
 
